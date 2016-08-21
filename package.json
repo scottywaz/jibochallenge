@@ -1,0 +1,16 @@
+{
+  "name": "programming-challenge",
+  "version": "1.0.0",
+  "description": "Jibo Programming Challenge",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Ross",
+  "license": "MIT",
+  "dependencies": {
+    "electron-prebuilt": "^0.26.0",
+    "pixi.js": "^3.0.11",
+    "win-spawn": "^2.0.0"
+  }
+}
